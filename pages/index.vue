@@ -3,8 +3,7 @@
 
   <p>
     A typing game named after my grandma, Elsie. She worked as a Stenographer in
-    the 1940s. I'm pretty much going for a MonkeyType.com clone with my own
-    personal spins on it.
+    the 1940s.
   </p>
 
   <p>Start typing the word(s) below to begin</p>
